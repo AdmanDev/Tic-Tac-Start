@@ -1,0 +1,86 @@
+﻿<Window x:Class="Tic_Tac_Start.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:myf="clr-namespace:MyFunctions.ControlsWPF;assembly=MyFunctions"
+        xmlns:local="clr-namespace:Tic_Tac_Start"
+        mc:Ignorable="d"
+        Title="Tic-Tac-Start" 
+        Style="{DynamicResource WinStyle}" WindowStartupLocation="CenterScreen">
+    <StackPanel Orientation="Vertical" Width="400">
+        <local:WindowHeader/>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="8">
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="BT_StartStop" Content="Start" Width="120" Click="BT_StartStop_Click"/>
+                <Button x:Name="BT_Reset" Content="Reset" Margin="5, 0" Click="BT_Reset_Click"/>
+                <Button x:Name="BT_Mode" Content="Mode" Margin="20, 0, 0, 0" Click="BT_Mode_Click"/>
+            </StackPanel>
+            <Border BorderBrush="White" BorderThickness="1" Margin="0, 5, 0, 0">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="Width" Value="100"/>
+                            <Setter Property="Height" Value="100"/>
+                            <Setter Property="Margin" Value="0, 0, 16, 0"/>
+                            <Setter Property="BorderBrush" Value="White"/>
+                            <Setter Property="BorderThickness" Value="1"/>
+                            <Setter Property="Background">
+                                <Setter.Value>
+                                    <RadialGradientBrush>
+                                        <GradientStop Color="#FFE02626" Offset="0"/>
+                                        <GradientStop Color="#FF780000" Offset="1"/>
+                                    </RadialGradientBrush>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                        <Style x:Key="TimeDisplayerStyle" TargetType="Label">
+                            <Setter Property="Margin" Value="0, 0, 0, 10"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="FontSize" Value="50"/>
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="VerticalContentAlignment"  Value="Center"/>
+                        </Style>
+                        <Style x:Key="TimeDescriptionStyle" TargetType="Label">
+                            <Setter Property="Padding" Value="0"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="FontSize" Value="16"/>
+                            <Setter Property="BorderBrush" Value="#FFA4A3A3"/>
+                            <Setter Property="Background">
+                                <Setter.Value>
+                                    <SolidColorBrush Color="AliceBlue" Opacity="0.2"/>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter Property="BorderThickness" Value="1"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="VerticalAlignment" Value="Bottom"/>
+                        </Style>
+                    </StackPanel.Resources>
+                    <Border>
+                        <Grid>
+                            <Label Name="LB_HoursDisplayer" Content="0" Style="{DynamicResource TimeDisplayerStyle}"/>
+                            <Label Content="Heures" Style="{DynamicResource TimeDescriptionStyle}"/>
+                        </Grid>
+                    </Border>
+                    <Border>
+                        <Grid>
+                            <Label Name="LB_MinutesDisplayer" Content="0" Style="{DynamicResource TimeDisplayerStyle}"/>
+                            <Label Content="Minutes" Style="{DynamicResource TimeDescriptionStyle}"/>
+                        </Grid>
+                    </Border>
+                    <Border Margin="0">
+                        <Grid>
+                            <Label Name="LB_SecondsDisplayer" Content="0" Style="{DynamicResource TimeDisplayerStyle}"/>
+                            <Label Content="Secondes" Style="{DynamicResource TimeDescriptionStyle}"/>
+                        </Grid>
+                    </Border>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+        <Grid Margin="10, 20, 10, 10">
+            <myf:CheckBoxButton x:Name="CBB_TopMost" BTContent="Affichage permanent" IsChecked="False" HorizontalAlignment="Left" Width="147" Height="auto" CheckedChanged="CBB_TopMost_CheckedChanged"/>
+            <Label x:Name="LB_WindowTime" Content="18:48:05" Foreground="White" HorizontalAlignment="Center"/>
+            <Button x:Name="CBB_DiscreteMode" Content="Mode discret" HorizontalAlignment="Right" Width="147" Click="CBB_DiscreteMode_Click" Style="{Binding ElementName=CBB_TopMost, Path=UncheckedStyle}"/>
+        </Grid>
+    </StackPanel>
+</Window>

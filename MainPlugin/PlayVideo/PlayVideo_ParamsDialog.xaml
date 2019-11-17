@@ -1,0 +1,28 @@
+﻿<Window x:Class="MainPlugin.PlayVideo.PlayVideo_ParamsDialog"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:myf="clr-namespace:MyFunctions.ControlsWPF;assembly=MyFunctions"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MainPlugin.PlayVideo"
+             mc:Ignorable="d" 
+             Title="Lire une vidéo" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="ControlsStyle" TargetType="{x:Type Control}">
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+        <Style TargetType="Button" BasedOn="{StaticResource ControlsStyle}">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Background" Value="#FFDDDDDD"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <myf:MyTextBox x:Name="TB_VideoLocation" DefaultText="Chemin vers la vidéo" Width="350" />
+                <Button x:Name="BT_ChooseVideo" Content="..." Margin="5,0,0,0" Padding="5,0" Click="BT_ChooseVideo_Click"/>
+            </StackPanel>
+            <Button x:Name="BT_OK" Content="OK" Margin="0, 10, 0, 0" IsDefault="True" FontSize="20" Foreground="Black" Click="BT_OK_Click"/>
+        </StackPanel>
+    </Grid>
+    </Window>

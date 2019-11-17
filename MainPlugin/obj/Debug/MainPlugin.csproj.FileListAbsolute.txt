@@ -1,0 +1,112 @@
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\MainPlugin.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\MainPlugin.pdb
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csprojResolveAssemblyReference.cache
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\Interop.WMPLib.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\AxInterop.WMPLib.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.ResolveComReference.cache
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.PlaySound.PlaySound_ParamsDialog.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.PlayVideo.PlayVideo.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.PlayVideo.PlayVideo_ParamsDialog.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.RunStopProcess.RunStopProcess_ParamsDialog.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.ShowMessage.ShowMessage.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.ShowMessage.ShowMessage_ParamsDialog.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.ShutDown_Restart_PC.ShutDown_Restart_PC_ParamsDialog.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.GenerateResource.cache
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.CoreCompileInputs.cache
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.pdb
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\Interop.WMPLib.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\AxInterop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\MainPlugin.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\MainPlugin.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\Interop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\AxInterop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csprojResolveAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\Interop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\AxInterop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.ResolveComReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.PlaySound.PlaySound_ParamsDialog.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.PlayVideo.PlayVideo.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.PlayVideo.PlayVideo_ParamsDialog.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.RunStopProcess.RunStopProcess_ParamsDialog.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.ShowMessage.ShowMessage.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.ShowMessage.ShowMessage_ParamsDialog.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.ShutDown_Restart_PC.ShutDown_Restart_PC_ParamsDialog.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.CoreCompileInputs.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.pdb
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\MainPlugin.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\MainPlugin.pdb
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\Interop.WMPLib.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\AxInterop.WMPLib.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csprojAssemblyReference.cache
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\Interop.WMPLib.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\AxInterop.WMPLib.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.ResolveComReference.cache
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.PlayVideo.PlayVideo.resources
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.GenerateResource.cache
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.pdb
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\PlaySound\PlaySound_ParamsDialog.g.cs
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin_MarkupCompile.cache
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin_MarkupCompile.lref
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\MyFunctions.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\FluentFTP.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\MyFunctions.pdb
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\FluentFTP.pdb
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\FluentFTP.xml
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\en\MyFunctions.resources.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\bin\Debug\fr\MyFunctions.resources.dll
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\PlaySound\PlaySound_ParamsDialog.baml
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.g.resources
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.CopyComplete
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\PlayVideo\PlayVideo_ParamsDialog.g.cs
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\RunStopProcess\RunStopProcess_ParamsDialog.g.cs
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage.g.cs
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage_ParamsDialog.g.cs
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShutDown_Restart_PC\ShutDown_Restart_PC_ParamsDialog.g.cs
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\PlayVideo\PlayVideo_ParamsDialog.baml
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\RunStopProcess\RunStopProcess_ParamsDialog.baml
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage.baml
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage_ParamsDialog.baml
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShutDown_Restart_PC\ShutDown_Restart_PC_ParamsDialog.baml
+D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\Styles.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csprojAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\Interop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\AxInterop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.ResolveComReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage_ParamsDialog.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\ShutDown_Restart_PC\ShutDown_Restart_PC_ParamsDialog.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\MainPlugin.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\MainPlugin.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\MyFunctions.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\VelerSoftware.FTPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\MyFunctions.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\en\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\fr\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\Interop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Debug\AxInterop.WMPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\PlaySound\PlaySound_ParamsDialog.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\PlayVideo\PlayVideo_ParamsDialog.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\RunStopProcess\RunStopProcess_ParamsDialog.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\PlaySound\PlaySound_ParamsDialog.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\PlayVideo\PlayVideo_ParamsDialog.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\RunStopProcess\RunStopProcess_ParamsDialog.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage_ParamsDialog.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\ShutDown_Restart_PC\ShutDown_Restart_PC_ParamsDialog.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\Styles.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.PlayVideo.PlayVideo.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.CopyComplete

@@ -1,0 +1,92 @@
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Tic-Tac-Start.exe.config
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Tic-Tac-Start.exe
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Tic-Tac-Start.pdb
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\MyFunctions.dll
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\System.Management.Automation.dll
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\FluentFTP.dll
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Microsoft.Expression.Drawing.dll
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\MyFunctions.pdb
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\FluentFTP.pdb
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\FluentFTP.xml
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\en\MyFunctions.resources.dll
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\bin\Release\fr\MyFunctions.resources.dll
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csprojAssemblyReference.cache
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Controls\WindowHeader.g.cs
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\AddPluginWindow.g.cs
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\MainWindow.g.cs
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\ModeWindow.g.cs
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\PluginsManagerWindow.g.cs
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\App.g.cs
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.cache
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.lref
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\App.baml
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Controls\WindowHeader.baml
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Styles.baml
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\AddPluginWindow.baml
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\MainWindow.baml
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\ModeWindow.baml
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\PluginsManagerWindow.baml
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.g.resources
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic_Tac_Start.Properties.Resources.resources
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csproj.GenerateResource.cache
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csproj.CopyComplete
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.exe
+D:\Session\Bureau\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Tic-Tac-Start.exe.config
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Tic-Tac-Start.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Tic-Tac-Start.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\MyFunctions.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\System.Management.Automation.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Microsoft.Expression.Drawing.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\MyFunctions.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\en\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\fr\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csprojAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Controls\WindowHeader.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\AddPluginWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\MainWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\ModeWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\PluginsManagerWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\App.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\App.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Controls\WindowHeader.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Styles.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\AddPluginWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\MainWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\ModeWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\PluginsManagerWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic_Tac_Start.Properties.Resources.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.pdb
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csprojAssemblyReference.cache
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Controls\WindowHeader.g.cs
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\AddPluginWindow.g.cs
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\MainWindow.g.cs
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\PluginsManagerWindow.g.cs
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\App.g.cs
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.cache
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.lref
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.exe
+D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.pdb
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csprojAssemblyReference.cache
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Controls\WindowHeader.g.cs
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\AddPluginWindow.g.cs
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\MainWindow.g.cs
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\PluginsManagerWindow.g.cs
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\App.g.cs
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.cache
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.lref
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.exe
+D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\VelerSoftware.FTPLib.dll
