@@ -38,12 +38,10 @@ D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Ti
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Tic-Tac-Start.exe
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Tic-Tac-Start.pdb
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\MyFunctions.dll
-D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\ComponentFactory.Krypton.Toolkit.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\System.Management.Automation.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Microsoft.Expression.Drawing.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\MyFunctions.pdb
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\en\MyFunctions.resources.dll
-D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\fr\MyFunctions.resources.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csprojAssemblyReference.cache
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Controls\WindowHeader.g.cs
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Windows\AddPluginWindow.g.cs
@@ -89,4 +87,8 @@ D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-
 D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start_MarkupCompile.lref
 D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.exe
 D:\Session\Bureau\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.pdb
-D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\VelerSoftware.FTPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\MySql.Data.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Google.Protobuf.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\BouncyCastle.Crypto.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Renci.SshNet.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\FluentFTP.dll

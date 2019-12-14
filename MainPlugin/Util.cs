@@ -16,39 +16,6 @@ namespace MainPlugin
             Title = "Sélectionnez un fichier..."
         };
 
-        //Run a Windows process
-        public static string RunProcess(string file, System.Diagnostics.ProcessWindowStyle mode, string arguments, bool waitForExit)
-        {
-            string result = null;
-
-            if (File.Exists(file))
-            {
-                System.Diagnostics.Process proc = new System.Diagnostics.Process();
-                proc.StartInfo.FileName = file;
-                proc.StartInfo.ErrorDialog = true;
-                proc.StartInfo.RedirectStandardOutput = true;
-                proc.StartInfo.UseShellExecute = false;
-                if (mode == System.Diagnostics.ProcessWindowStyle.Hidden)
-                    proc.StartInfo.CreateNoWindow = true;
-                proc.StartInfo.WindowStyle = mode;
-                proc.StartInfo.Arguments = arguments;
-
-                proc.Start();
-
-                if (waitForExit)
-                {
-                    result = proc.StandardOutput.ReadToEnd();
-                    proc.WaitForExit();
-                }
-            }
-            else
-            {
-                System.Diagnostics.Process.Start(file);
-            }
-
-            return result;
-        }
-
         //Stop a Window process
         public static void KillProc(string name, bool force)
         {

@@ -97,12 +97,14 @@ D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projet
 D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.dll
 D:\Session\Bureau\recup\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.pdb
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\MyFunctions.dll
-D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\ComponentFactory.Krypton.Toolkit.dll
-D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\VelerSoftware.FTPLib.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\Microsoft.Expression.Drawing.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\MyFunctions.pdb
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\en\MyFunctions.resources.dll
-D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\fr\MyFunctions.resources.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\Interop.WMPLib.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\AxInterop.WMPLib.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\MySql.Data.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\FluentFTP.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\Google.Protobuf.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\BouncyCastle.Crypto.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\Renci.SshNet.dll
