@@ -38,7 +38,6 @@ D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.dll
 D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.pdb
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\MainPlugin.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\MainPlugin.pdb
-D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.csprojAssemblyReference.cache
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\Interop.WMPLib.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AxInterop.WMPLib.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.csproj.ResolveComReference.cache
