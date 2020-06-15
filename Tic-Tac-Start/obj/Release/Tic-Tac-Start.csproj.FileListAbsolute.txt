@@ -92,3 +92,4 @@ D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Ti
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\BouncyCastle.Crypto.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\Renci.SshNet.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\bin\Release\FluentFTP.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\Tic-Tac-Start\obj\Release\Tic-Tac-Start.csproj.CoreCompileInputs.cache

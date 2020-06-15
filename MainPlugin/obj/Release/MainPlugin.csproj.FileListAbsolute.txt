@@ -107,3 +107,15 @@ D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Ti
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\Google.Protobuf.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\BouncyCastle.Crypto.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\bin\Release\Renci.SshNet.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.csprojAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AutoClicker\AutoClicker_ParamsDialog.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AutoClicker\Modes\ClickPointMode.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AutoClicker\Modes\ClicksProgramMode.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AutoClicker\Modes\SelectPoint_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\PressKey\PressKey_ParamsDialog.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AutoClicker\AutoClicker_ParamsDialog.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AutoClicker\Modes\ClickPointMode.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AutoClicker\Modes\ClicksProgramMode.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\AutoClicker\Modes\SelectPoint_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\PressKey\PressKey_ParamsDialog.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Release\MainPlugin.csproj.CoreCompileInputs.cache

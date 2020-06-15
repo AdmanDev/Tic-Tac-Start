@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 
-111932135220
+12-910480204
 
-20722000522
+22-1645216717
 72471048090
-AutoClicker\AutoClicker_ParamsDialog.xaml;AutoClicker\Modes\ClickPointMode.xaml;AutoClicker\Modes\ClicksProgramMode.xaml;AutoClicker\Modes\SelectPoint_Window.xaml;PlaySound\PlaySound_ParamsDialog.xaml;PlayVideo\PlayVideo_ParamsDialog.xaml;RunStopProcess\RunStopProcess_ParamsDialog.xaml;ShowMessage\ShowMessage.xaml;ShowMessage\ShowMessage_ParamsDialog.xaml;ShutDown_Restart_PC\ShutDown_Restart_PC_ParamsDialog.xaml;Styles.xaml;
+AutoClicker\AutoClicker_ParamsDialog.xaml;AutoClicker\Modes\ClickPointMode.xaml;AutoClicker\Modes\ClicksProgramMode.xaml;AutoClicker\Modes\SelectPoint_Window.xaml;PlaySound\PlaySound_ParamsDialog.xaml;PlayVideo\PlayVideo_ParamsDialog.xaml;PressKey\PressKey_ParamsDialog.xaml;RunStopProcess\RunStopProcess_ParamsDialog.xaml;ShowMessage\ShowMessage.xaml;ShowMessage\ShowMessage_ParamsDialog.xaml;ShutDown_Restart_PC\ShutDown_Restart_PC_ParamsDialog.xaml;Styles.xaml;
 
 False
 

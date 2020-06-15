@@ -74,7 +74,6 @@ D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage.bam
 D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShowMessage\ShowMessage_ParamsDialog.baml
 D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\ShutDown_Restart_PC\ShutDown_Restart_PC_ParamsDialog.baml
 D:\Session\Bureau\Tic-Tac-Start\MainPlugin\obj\Debug\Styles.baml
-D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csprojAssemblyReference.cache
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\Interop.WMPLib.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\AxInterop.WMPLib.dll
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.ResolveComReference.cache
@@ -121,3 +120,6 @@ D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Ti
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csproj.CoreCompileInputs.cache
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\AutoClicker\Modes\ClicksProgramMode.g.cs
 D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\AutoClicker\Modes\ClicksProgramMode.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\PressKey\PressKey_ParamsDialog.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\PressKey\PressKey_ParamsDialog.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Tic-Tac-Start\MainPlugin\obj\Debug\MainPlugin.csprojAssemblyReference.cache
