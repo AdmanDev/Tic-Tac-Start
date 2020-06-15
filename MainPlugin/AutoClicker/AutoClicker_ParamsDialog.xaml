@@ -1,0 +1,23 @@
+﻿<Window x:Class="MainPlugin.AutoClicker.AutoClicker_ParamsDialog"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MainPlugin.AutoClicker"
+             xmlns:mode="clr-namespace:MainPlugin.AutoClicker.Modes"
+             mc:Ignorable="d" 
+             Title="Click automatique" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <GroupBox Header="Modes">
+                <StackPanel Orientation="Horizontal" >
+                    <RadioButton Content="Click sur un point" Tag="ClickPoint"  IsChecked="True" Checked="RB_Mode_Checked"/>
+                    <RadioButton Content="Programme de clicks" Tag="ClicksProgram" Margin="10,0" Checked="RB_Mode_Checked"/>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox x:Name="GB_ModeParams" Header="Paramètres"/>
+
+            <Button x:Name="BT_OK" Content="Valider" FontSize="16" Background="#DDDDDD" Margin="0, 5, 0, 0" Click="BT_OK_Click" Foreground="Black" />
+        </StackPanel>
+    </Grid>
+</Window>

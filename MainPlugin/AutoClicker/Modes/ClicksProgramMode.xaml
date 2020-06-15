@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="MainPlugin.AutoClicker.Modes.ClicksProgramMode"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MainPlugin.AutoClicker.Modes"
+             xmlns:myf="clr-namespace:MyFunctions.ControlsWPF;assembly=MyFunctions"
+             mc:Ignorable="d" >
+    <StackPanel Orientation="Vertical">
+        <Button x:Name="BT_OpenProgram" Content="Ouvrir un programme de clicks" FontSize="16" Background="#DDDDDD" Click="BT_OpenProgram_Click" Foreground="Black"/>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="0,10,0,0">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal" Margin="0,1" HorizontalAlignment="Center">
+                    <Button x:Name="BT_AddPoints" Content="Ajouter un point de click" FontSize="14" Background="#DDDDDD" Click="BT_AddPoints_Click" Foreground="Black"/>
+                    <Button x:Name="BT_RemovePoint" Content="Supprimer" FontSize="14" Background="#DDDDDD" Margin="5,0,0,0" Click="BT_RemovePoint_Click" Foreground="Black"/>
+                    <Button x:Name="BT_VisualisePoint" Content="Visualiser" FontSize="14" Background="#DDDDDD" Margin="5,0,0,0" Click="BT_VisualisePoint_Click" Foreground="Black"/>
+                </StackPanel>
+                <ListView x:Name="LV_Points" FontSize="14" ScrollViewer.VerticalScrollBarVisibility="Visible" Height="223" />
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Label Content="Intervalle (en milliseconde) :" FontSize="14" Foreground="Black" />
+                    <myf:NumericUpDown x:Name="NUD_Interval" Min="1" Max="1E+30" Value="1000"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5,0,0">
+                    <Label Content="Nombre de répétitions :" FontSize="14" Foreground="Black" />
+                    <myf:NumericUpDown x:Name="NUD_Repeat" Min="1" Max="10" Value="1" />
+                </StackPanel>
+            </StackPanel>
+        </Border>
+        <Button x:Name="BT_SaveProgram" Content="Enregistrer un programme de clicks" FontSize="16" Background="#DDDDDD" Margin="0,10,0,2" Click="BT_SaveProgram_Click" Foreground="Black"/>
+    </StackPanel>
+</UserControl>

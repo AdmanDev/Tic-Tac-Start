@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="MainPlugin.AutoClicker.Modes.ClickPointMode"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MainPlugin.AutoClicker.Modes"
+             xmlns:myF="clr-namespace:MyFunctions.ControlsWPF;assembly=MyFunctions"
+             mc:Ignorable="d" >
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Nombre de clicks :" VerticalContentAlignment="Center"/>
+                <myF:NumericUpDown Name="NUD_Repeats" Min="1" Max="10" Value="1"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Intervalle entre chaque click (en millisecondes) :" VerticalContentAlignment="Center"/>
+                <myF:NumericUpDown Name="NUD_Interval" Min="100" Max="1E+30" Value="1000"/>
+            </StackPanel>
+            <Button x:Name="BT_SelectPoint" Content="Choisir un point..." FontSize="14" Padding="5" Margin="0,10,0,0" Click="BT_SelectPoint_Click" Background="#DDDDDD" Foreground="Black"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

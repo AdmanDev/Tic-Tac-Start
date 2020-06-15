@@ -56,6 +56,21 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoClicker\AutoClicker.cs" />
+    <Compile Include="AutoClicker\AutoClicker_ParamsDialog.xaml.cs">
+      <DependentUpon>AutoClicker_ParamsDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AutoClicker\Modes\ClickPointMode.xaml.cs">
+      <DependentUpon>ClickPointMode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AutoClicker\Modes\ClicksProgramMode.xaml.cs">
+      <DependentUpon>ClicksProgramMode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AutoClicker\Modes\IClickMode.cs" />
+    <Compile Include="AutoClicker\Modes\ModeParameters.cs" />
+    <Compile Include="AutoClicker\Modes\SelectPoint_Window.xaml.cs">
+      <DependentUpon>SelectPoint_Window.xaml</DependentUpon>
+    </Compile>
     <Compile Include="PlaySound\PlaySound.cs" />
     <Compile Include="PlaySound\PlaySound_ParamsDialog.xaml.cs">
       <DependentUpon>PlaySound_ParamsDialog.xaml</DependentUpon>
@@ -84,7 +99,7 @@
     <Compile Include="ShutDown_Restart_PC\ShutDown_Restart_PC_ParamsDialog.xaml.cs">
       <DependentUpon>ShutDown_Restart_PC_ParamsDialog.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Util.cs" />
+    <Compile Include="Util\Util.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="PlayVideo\PlayVideo.resx">
@@ -114,6 +129,22 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
+    <Page Include="AutoClicker\AutoClicker_ParamsDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AutoClicker\Modes\ClickPointMode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AutoClicker\Modes\ClicksProgramMode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AutoClicker\Modes\SelectPoint_Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="PlaySound\PlaySound_ParamsDialog.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
